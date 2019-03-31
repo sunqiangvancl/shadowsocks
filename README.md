@@ -29,7 +29,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181108224458347.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01yX1Nlbmc=,size_16,color_FFFFFF,t_70)
 节点：纽约 
 操作系统：centos 7 x64 
-配置：2.5刀/月（最低配） 
+配置：2.5刀/月（最低配）， 1核CUP，512MB内存，500GB流量
 其他： Enable IPv6打钩
 选择完成后，点击部署Deploy Now 
 稍等几分钟后部署完成 
